@@ -237,7 +237,8 @@ img {
 }
 
 .subject,
-.duration,
+.grade,
+.students,
 .sort {
   color: #666;
   font-size: 12px;
