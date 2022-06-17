@@ -1,0 +1,11 @@
+{
+    "icon": [
+        {
+            "favourite" : "assets/favourite.svg",
+            "preview": "assets/preview.svg",
+            "manage": "assets/manage course.svg",
+            "submission": "assets/grade submissions.svg",
+            "report": "assets/reports.svg"
+        }
+    ]
+}
